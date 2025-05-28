@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-PyQt5==5.15.9
-SimpleITK==2.3.1
-numpy==1.23.5
-=======
-PyQt5==5.15.9
-SimpleITK==2.3.1
-numpy==1.23.5
->>>>>>> a10ddbacdc114b7ac5ed88134601c8de70ccd324
