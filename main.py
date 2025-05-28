@@ -4,6 +4,6 @@ from gui import MedicalImageViewer
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    viewer = MedicalImageViewer()
-    viewer.show()
+    window = MedicalImageViewer()
+    window.show()
     sys.exit(app.exec_())
